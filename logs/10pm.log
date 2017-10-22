@@ -1,0 +1,12 @@
+Total measures: 15
+Mean : 0.1517532 || Lower bound : 0.144790061058 || Upper bound : 0.158716338942
+[0.162355, 0.135405, 0.141958, 0.167977, 0.155833, 0.134312, 0.159904, 0.137855, 0.140464, 0.159347, 0.141493, 0.161002, 0.146903, 0.172927, 0.158563]
+
+64 bytes from kiwi (145.239.155.5): icmp_seq=1 ttl=48 time=88.6 ms
+64 bytes from kiwi (145.239.155.5): icmp_seq=2 ttl=48 time=57.9 ms
+64 bytes from kiwi (145.239.155.5): icmp_seq=3 ttl=48 time=75.8 ms
+64 bytes from kiwi (145.239.155.5): icmp_seq=4 ttl=48 time=74.8 ms
+64 bytes from kiwi (145.239.155.5): icmp_seq=5 ttl=48 time=72.9 ms
+64 bytes from kiwi (145.239.155.5): icmp_seq=6 ttl=48 time=69.9 ms
+64 bytes from kiwi (145.239.155.5): icmp_seq=7 ttl=48 time=68.9 ms
+64 bytes from kiwi (145.239.155.5): icmp_seq=8 ttl=48 time=67.9 ms
